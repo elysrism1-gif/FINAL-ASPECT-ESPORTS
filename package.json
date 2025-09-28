@@ -1,0 +1,17 @@
+{
+  "name": "aspect-esports-website",
+  "version": "1.0.0",
+  "description": "ASPECT Esports official website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["esports", "gaming", "website"],
+  "author": "ASPECT Esports",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
